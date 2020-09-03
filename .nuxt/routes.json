@@ -1,0 +1,16 @@
+[
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "/home/gleb/Документы/Projects/vuetify-chat/pages/chat.vue",
+    "chunkName": "pages/chat",
+    "_name": "_f72e5d6e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/gleb/Документы/Projects/vuetify-chat/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7a9f1631"
+  }
+]
